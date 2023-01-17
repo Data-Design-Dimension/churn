@@ -1,11 +1,11 @@
 # Holiday Community App-Building Challenge, Plotly Dash Python
 
-__Author:__ Kathryn Hurchla for [Data Design Dimension](https://dadeda.design)
+__Author:__ Kathryn Hurchla for [Data Design Dimension](https://dadeda.design)<br />
 __Date:__ Dec 2022 - Jan 2023
 
 This exercize in anticipating customer churn was inspired by the 2022 Holiday Community App-Building Challenge in the [Plotly Dash Python forum](https://community.plotly.com/t/holiday-community-app-building-challenge/70393/4).
 
-__Data:__ https://raw.githubusercontent.com/plotly/datasets/master/telco-customer-churn-by-IBM.csv (The customer churn data was provided by [IBM](https://community.ibm.com/accelerators/?context=analytics&query=telco&type=Data) to solve business problems and predict customer churn for a fictional telecommunication company.)
+__Data:__ https://raw.githubusercontent.com/plotly/datasets/master/telco-customer-churn-by-IBM.csv (The customer churn data was provided by [IBM](https://community.ibm.com/accelerators/?context=analytics&query=telco&type=Data) to solve business problems and predict customer churn for a fictional telecommunication company.)<br />
 __Data description:__ https://docs.google.com/document/d/1iazD22swSw6CJAVDwkVk-Ynh-r-4meWclfQ0jVMMubU/edit?usp=sharing
 
 ## Objective
